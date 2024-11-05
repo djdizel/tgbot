@@ -1,0 +1,17 @@
+D:\repos\tgbot\tgbot\bin\Debug\net8.0\tgbot.exe
+D:\repos\tgbot\tgbot\bin\Debug\net8.0\tgbot.deps.json
+D:\repos\tgbot\tgbot\bin\Debug\net8.0\tgbot.runtimeconfig.json
+D:\repos\tgbot\tgbot\bin\Debug\net8.0\tgbot.dll
+D:\repos\tgbot\tgbot\bin\Debug\net8.0\tgbot.pdb
+D:\repos\tgbot\tgbot\bin\Debug\net8.0\Telegram.Bot.dll
+D:\repos\tgbot\tgbot\obj\Debug\net8.0\tgbot.csproj.AssemblyReference.cache
+D:\repos\tgbot\tgbot\obj\Debug\net8.0\tgbot.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\tgbot\tgbot\obj\Debug\net8.0\tgbot.AssemblyInfoInputs.cache
+D:\repos\tgbot\tgbot\obj\Debug\net8.0\tgbot.AssemblyInfo.cs
+D:\repos\tgbot\tgbot\obj\Debug\net8.0\tgbot.csproj.CoreCompileInputs.cache
+D:\repos\tgbot\tgbot\obj\Debug\net8.0\tgbot.csproj.Up2Date
+D:\repos\tgbot\tgbot\obj\Debug\net8.0\tgbot.dll
+D:\repos\tgbot\tgbot\obj\Debug\net8.0\refint\tgbot.dll
+D:\repos\tgbot\tgbot\obj\Debug\net8.0\tgbot.pdb
+D:\repos\tgbot\tgbot\obj\Debug\net8.0\tgbot.genruntimeconfig.cache
+D:\repos\tgbot\tgbot\obj\Debug\net8.0\ref\tgbot.dll
